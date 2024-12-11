@@ -6,6 +6,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins", serif;
+  font-weight: 600;
 }
 
 
@@ -39,5 +40,6 @@
   h3{
     text-transform: capitalize;
     text-align: center;
+    border-bottom: 1px solid #eee;
   }
 }
